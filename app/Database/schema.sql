@@ -53,3 +53,5 @@ CREATE TABLE notes (
     FOREIGN KEY (etudiant_id) REFERENCES etudiants(id),
     FOREIGN KEY (matiere_id) REFERENCES matieres(id)
 );
+
+-- test miaro
