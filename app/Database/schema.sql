@@ -54,4 +54,3 @@ CREATE TABLE notes (
     FOREIGN KEY (matiere_id) REFERENCES matieres(id)
 );
 
---test
